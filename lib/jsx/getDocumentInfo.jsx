@@ -8,7 +8,7 @@
 //         expandSmartObjects: false,
 //         getTextStyles:      true,
 //         selectedLayers:     true,
-//         getCompSettings:    true
+//         getCompLayerSettings:    true
 //     }
 // Optional params:
 //   - documentId: The ID of the document requested (leave null for current document)
