@@ -2,13 +2,14 @@
 // Required params:
 //   - flags: An object with flags as keys and boolean values
 //     Sample: {
-//         compInfo:           true,
-//         imageInfo:          true,
-//         layerInfo:          true,
-//         expandSmartObjects: false,
-//         getTextStyles:      true,
-//         selectedLayers:     true,
-//         getCompLayerSettings:    true
+//         compInfo:           		true,
+//         imageInfo:          		true,
+//         layerInfo:          		true,
+//         expandSmartObjects: 		false,
+//         getTextStyles:      		true,
+//         selectedLayers:     		true,
+//         getCompLayerSettings:    true,
+//		   getPathData: 			true
 //     }
 // Optional params:
 //   - documentId: The ID of the document requested (leave null for current document)
